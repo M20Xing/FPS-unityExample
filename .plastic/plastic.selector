@@ -1,0 +1,4 @@
+repository "unity0515@m206@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
